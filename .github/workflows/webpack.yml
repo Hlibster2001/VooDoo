@@ -3,7 +3,7 @@ name: VooDoo
 on:
   push:
     branches: [ "main" ]
-
+worckflow_dispatch:
 
 jobs:
   build:
