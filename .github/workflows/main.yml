@@ -1,4 +1,4 @@
-name: VooDoo
+name: VooDoo test
 
 on:
   push:
