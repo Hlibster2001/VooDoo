@@ -51,7 +51,7 @@ export function renderCart() {
           </span>
         </span>
       </span>
-      <img id="remove" src="./img/removeCart.svg" alt="remove" class="w-5 h-5 cursor-pointer" />
+      <img id="remove" src="./img/removeFromCart.svg" alt="remove" class="w-5 h-5 cursor-pointer" />
     `;
 
     cartItem.innerHTML = itemContent;
